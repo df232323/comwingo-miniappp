@@ -1,7 +1,7 @@
 
 console.log("Mini App (frontend) loaded");
 
-const API_URL = "https://form-sender.vercel.app/api/send"; // backend на Vercel
+const API_URL = "https://comwingo-miniappp-lbzu3h590-dfdsfdfs-projects.vercel.app/api/submit"; // backend на Vercel
 
 // PLATFORM SELECT
 document.querySelectorAll(".platform").forEach(btn => {
